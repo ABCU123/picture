@@ -1,0 +1,13 @@
+﻿  main.cpp
+E:\coding\VS\picture\picture\main.cpp(100,61): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\coding\VS\picture\picture\main.cpp(100,42): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\coding\VS\picture\picture\main.cpp(141,7): warning C4101: “input”: 未引用的局部变量
+  picture.vcxproj -> E:\coding\VS\picture\x64\Debug\picture.exe
